@@ -1,7 +1,7 @@
 # Draw Custom Shape 
 ### Install
 
-1. Download [draw-custom-shape.zip](https://github.com/RoxanneAlbutt/ps-multi-size-saver/blob/master/multi-size-saver.zip?raw=true)
+1. Download [draw-custom-shape.zip](https://github.com/RoxanneAlbutt/ps-draw-custom-shape/blob/master/draw-custom-shape.zip?raw=true)
 2. Place `draw-custom-shape.jsx` in the Photoshop Scripts folder.
 	- OS X: `/Applications/[Photoshop]/Presets/Scripts/`
 	- Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
