@@ -12,9 +12,11 @@ Save Photoshop file into multiple sizes in one click.
 
 Add point paths in the Main() function to the points array by adding a new PathPoint with the parameters (anchor(x,y), leftdirection(x,y), rightdirection(x,y).
 
-For example:
-new ShapePoint([200,100], [200,100], [200,100]); will create a point at position X:200 Y:100 with no curve anchor.
-new ShapePoint([150,50], [100,50], [200,50]); will create a point at position X:150 Y:50 with equal curving to its left and right anchors.
+#### For example:
+
+new ShapePoint([200,100], [200,100], [200,100]); *will create a point at position X:200 Y:100 with no curve anchor*.
+
+new ShapePoint([150,50], [100,50], [200,50]); *will create a point at position X:150 Y:50 with equal curving to its left and right anchors.*
 
 
 ### License
