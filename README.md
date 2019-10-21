@@ -8,7 +8,7 @@
 4. Restart Photoshop. The script should now be available in `File ? Scripts ? draw-custom-shape`.
 
 ### Usage
-Save Photoshop file into multiple sizes in one click.
+Draw a custom shape using code!
 
 Add point paths in the Main() function to the points array by adding a new PathPoint with the parameters (anchor(x,y), leftdirection(x,y), rightdirection(x,y).
 
